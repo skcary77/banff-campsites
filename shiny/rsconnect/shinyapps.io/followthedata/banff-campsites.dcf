@@ -1,0 +1,13 @@
+name: banff-campsites
+title: Banff-Campsites
+username:
+account: followthedata
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 227931
+bundleId: 1039194
+url: https://followthedata.shinyapps.io/banff-campsites/
+when: 1508669625.818
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: camp.csv|camps.pdf
